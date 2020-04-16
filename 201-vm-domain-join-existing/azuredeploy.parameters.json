@@ -6,7 +6,7 @@
             "value": "Korea Central"
         },
         "vmList": {
-            "value": "client01"
+            "value": "client01, client01"
         },
         "domainJoinUserName": {
             "value": "shaikyaseen\\shaikshoaib"
