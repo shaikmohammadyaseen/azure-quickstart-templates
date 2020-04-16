@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "existingVNETName": {
-      "value": "myvnet"
+      "value": "DemoRG01-vnet"
     },
     "existingSubnetName": {
-      "value": "subnet"
+      "value": "default"
     },
     "vmSize": {
-      "value": "Standard_A2"
+      "value": "Standard_F2s_v2"
     },
     "domainToJoin": {
-      "value": "contoso.local"
+      "value": "shaikyaseen.com"
     },
     "domainUsername": {
       "value": "azuerUser"
