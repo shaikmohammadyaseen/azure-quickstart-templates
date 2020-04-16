@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "southcentralus"
+            "value": "Korea Central"
         },
         "vmList": {
-            "value": "client01,client02"
+            "value": "client01"
         },
         "domainJoinUserName": {
-            "value": "contoso\\username"
+            "value": "shaikyaseen\\shaikshoaib"
         },
         "domainJoinUserPassword": {
             "value": "GEN-PASSWORD"
         },
         "domainFQDN": {
-            "value": "contoso.com"
+            "value": "shaikyaseen.com"
         }
     }
 }
