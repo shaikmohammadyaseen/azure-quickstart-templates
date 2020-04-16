@@ -22,7 +22,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_F2s_v2",
+      "defaultValue": "M8-4ms",
       "metadata": {
         "description": "The size of the virtual machines"
       }

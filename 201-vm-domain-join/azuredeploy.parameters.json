@@ -9,7 +9,7 @@
       "value": "default"
     },
     "vmSize": {
-      "value": "Standard_F2s_v2"
+      "value": "M8-4ms"
     },
     "domainToJoin": {
       "value": "shaikyaseen.com"
